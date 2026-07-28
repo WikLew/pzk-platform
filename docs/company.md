@@ -43,7 +43,7 @@ CI/CD
 Jenkins
 GitHub Actions
 
-Main Challenges
+Main Challenges:
 
 - inconsistent service configuration
 - outdated dependencies
@@ -52,3 +52,12 @@ Main Challenges
 - inconsistent deployment process
 - slow onboarding
 - security vulnerabilities
+
+Team goals:
+
+- standardize service creation
+- improve developer experience
+- reduce security vulnerabilities
+- accelerate modernization
+- simplify onboarding
+- provide Golden Path
